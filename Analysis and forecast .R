@@ -1,12 +1,5 @@
-### STUDENT DETAILS #####
-# ECON1061 Final Assessment
-# Name: Antony Wibgha
-# Student ID: s4233062
-# Allocated Country ID: A85375566F (South Korea)
-
-
-#install.packages("fpp2")
-#install.packages("fpp3")
+install.packages("fpp2")
+install.packages("fpp3")
 library(fpp2)
 library(fpp3)
 library(readxl)
